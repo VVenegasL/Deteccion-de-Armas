@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>370.png</filename>
+	<path>C:\Users\gow3s\OneDrive\Documentos\Informatica 7\Machine Laearning -Alberto\Deteccion de armas\deteccion_armas\images\370.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>270</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arma Falsa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>2</ymin>
+			<xmax>269</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>

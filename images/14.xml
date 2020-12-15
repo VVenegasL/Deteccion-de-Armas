@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>14.jpg</filename>
+	<path>C:\Users\gow3s\OneDrive\Documentos\Informatica 7\Machine Laearning -Alberto\Deteccion de armas\deteccion_armas\images\14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>236</width>
+		<height>305</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arma Real</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>84</ymin>
+			<xmax>229</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>
